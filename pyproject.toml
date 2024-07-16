@@ -1,6 +1,6 @@
 [project]
 name = "banner_hun0219"
-version = "0.2.6"
+version = "0.3.0"
 description = "banner output program"
 authors = [
     {name = "hun0219", email = "gsw98000@gmail.com"},
@@ -13,7 +13,8 @@ readme = "README.md"
 license = {text = "MIT"}
 
 [project.scripts]
-show-banner = 'banner_hun0219.banner:show'
+hun0219-banner = 'banner_hun0219.banner:show'
+hun0219-pic = 'banner_hun0219.banner:pic'
 
 [project.urls]
 Homepage = "https://github.com/hun0219/banner_hun0219"
