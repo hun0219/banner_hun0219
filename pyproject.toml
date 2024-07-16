@@ -1,6 +1,6 @@
 [project]
 name = "banner_hun0219"
-version = "0.2.0"
+version = "0.2.1"
 description = "banner output program"
 authors = [
     {name = "hun0219", email = "gsw98000@gmail.com"},
@@ -14,6 +14,10 @@ license = {text = "MIT"}
 
 [project.scripts]
 show-banner = 'banner_hun0219.banner:show'
+
+[project.urls]
+Homepage = "https://github.com/hun0219/banner_hun0219"
+Issues = "https://github.com/hun0219/banner_hun0219/issues"
 
 [tool.pdm]
 distribution = true
