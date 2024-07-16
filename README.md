@@ -10,7 +10,7 @@
 ```
 ## **설치**
 ```py
-pip install banner_hun0219==0.3.2
+pip install banner_hun0219==0.3.3
 ```
 ## **배너**
 ```py
@@ -41,3 +41,6 @@ $ hun0219-pic
 $ hun0219-lotto
 [19, 13, 18, 29, 14, 41]
 ```
+
+## **git**
+(https://github.com/hun0219/banner_hun0219)
