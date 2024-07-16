@@ -13,7 +13,7 @@ readme = "README.md"
 license = {text = "MIT"}
 
 [project.scripts]
-show-banner = 'banner_hun2019.banner:show'
+show-banner = 'banner_hun0219.banner:show'
 
 [tool.pdm]
 distribution = true
