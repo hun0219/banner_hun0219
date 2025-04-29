@@ -22,6 +22,8 @@ $ show-banner
 /_/ /_/\__,_/_/ /_/\____/____/_//____/
 
 ```
+![image](https://github.com/user-attachments/assets/3ac80153-42a9-43d8-88be-0cf0b8be0f73)
+
 ## **그림**
 ```py
 $ hun0219-pic
